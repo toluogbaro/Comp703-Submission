@@ -9,8 +9,7 @@
 			"Type": "Runtime",
 			"LoadingPhase": "Default",
 			"AdditionalDependencies": [
-				"Engine",
-				"GameplayAbilities"
+				"Engine"
 			]
 		}
 	],
@@ -21,10 +20,6 @@
 			"TargetAllowList": [
 				"Editor"
 			]
-		},
-		{
-			"Name": "GameplayAbilities",
-			"Enabled": true
 		}
 	]
 }
