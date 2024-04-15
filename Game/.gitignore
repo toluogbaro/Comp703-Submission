@@ -107,3 +107,5 @@ Build/Android/res/*/*
 
 ### MacOS ###
 .DS_Store
+
+Plugins/*
